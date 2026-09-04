@@ -1,9 +1,10 @@
-# -Destroy-All-The-Monsters-build
+#Destroy All The Monsters
+
 A 2D action-platformer game developed in Unity.
 
 The goal of the game is to complete all levels, discover the secret level, and uncover its hidden content and the story behind the game.
 
-About
+## About
 
 Each level places the player in a dangerous environment filled with traps, obstacles, interactive objects, and monsters.
 
@@ -11,11 +12,11 @@ The monsters are defenseless in close combat, so instead of directly protecting 
 
 The player must use movement, timing, and the environment to reach the end of each level and eliminate all monsters.
 
-Gameplay
+## Gameplay
 
 The main gameplay loop is:
 
-Aim → Jump → Navigate hazards → Interact with the environment → Defeat all monsters → Complete the level
+**Aim → Jump → Navigate hazards → Interact with the environment → Defeat all monsters → Complete the level**
 
 The player controls the character by holding the character sprite, aiming in the desired direction, and releasing to launch the character.
 
@@ -23,57 +24,61 @@ Movement is intentionally physics-based and includes an element of unpredictabil
 
 This makes movement a combination of planning, timing, and controlled risk.
 
-Features
-Physics-based character movement
-Directional jump mechanic
-Multiple levels
-Secret level with hidden content
-Enemy elimination objectives
-Multiple monster variations
-Multiple trap types
-Interactive environment
-Level-based progression
-Player skin shop
-Three-language localization
-Small story revealed at the end of the game
-Traps
+## Features
+
+* Physics-based character movement
+* Directional jump mechanic
+* Multiple levels
+* Secret level with hidden content
+* Enemy elimination objectives
+* Multiple monster variations
+* Multiple trap types
+* Interactive environment
+* Level-based progression
+* Player skin shop
+* Three-language localization
+* Small story revealed at the end of the game
+
+## Traps
 
 The game includes different environmental traps designed to prevent the player from reaching the monsters.
 
 Examples include:
 
-Turrets
-Spikes
-Spears
-Saws
-Lasers
-Moving walls
-Other level-specific hazards
-Interactive Objects
+* Turrets
+* Spikes
+* Spears
+* Saws
+* Lasers
+* Moving walls
+* Other level-specific hazards
+
+## Interactive Objects
 
 The player can interact with different objects throughout the levels, including:
 
-Buttons
-Stones
-Boxes
-Other environmental objects
+* Buttons
+* Stones
+* Boxes
+* Other environmental objects
 
 These interactions are used to navigate levels, avoid hazards, and create solutions to environmental obstacles.
 
-Enemies
+## Enemies
 
 The game contains multiple monster variants.
 
 The monsters mainly differ in appearance and are used to populate the levels with different visual variations while keeping the core gameplay focused on environmental challenges and movement.
 
-Localization
+## Localization
 
 The game supports three languages:
 
-Russian
-English
-Turkish
-Progression
+* Russian
+* English
+* Turkish
+
+## Progression
 
 The player progresses through a sequence of levels by defeating all monsters in each stage.
 
@@ -81,13 +86,13 @@ Completing the main levels eventually unlocks access to a secret level containin
 
 The game also includes a player skin shop, providing a simple form of cosmetic progression.
 
-Story
+## Story
 
 Although gameplay is the main focus, the game contains a small narrative that is gradually built around the player's progress.
 
 The story is revealed at the end of the game and gives additional context to the events of the levels.
 
-Visual Style
+## Visual Style
 
 The game uses a pixel-art visual style.
 
@@ -97,41 +102,45 @@ For this project, I improved my understanding of pixel-art production and worked
 
 This project represents an important step in my understanding of pixel-art workflows and visual consistency.
 
-Development
+## Development
 
-This was my second completed game project.
+This was my **second completed game project**.
 
 Compared with my first game, this project allowed me to improve my understanding of:
 
-Pixel-art consistency
-Physics-based gameplay
-Level design
-Environmental hazards
-Interactive objects
-Localization
-Player progression
-Game structure and presentation
-Technologies
-Unity
-C#
-2D Game Development
-Build
+* Pixel-art consistency
+* Physics-based gameplay
+* Level design
+* Environmental hazards
+* Interactive objects
+* Localization
+* Player progression
+* Game structure and presentation
 
-The latest playable version is available in the Releases section.
+## Technologies
 
-Portfolio
+* Unity
+* C#
+* 2D Game Development
+
+## Build
+
+The latest playable version is available in the **Releases** section.
+
+## Portfolio
 
 This project demonstrates my experience with:
 
-Unity gameplay programming
-Physics-based mechanics
-Level design
-Trap and hazard systems
-Interactive environments
-Localization
-Progression systems
-Prototyping and iteration
-License
+* Unity gameplay programming
+* Physics-based mechanics
+* Level design
+* Trap and hazard systems
+* Interactive environments
+* Localization
+* Progression systems
+* Prototyping and iteration
+
+## License
 
 All rights reserved.
 
@@ -139,6 +148,6 @@ This repository is published for portfolio and demonstration purposes.
 
 Third-party assets, music, fonts, plugins, and other external materials remain subject to their respective licenses.
 
-Author
+## Author
 
-Artimsay
+**Artimsay**
